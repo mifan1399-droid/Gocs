@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   srcDir: "src",
   outDir: "docs",
+  base: '/docs/',
   title: "米饭的笔记博客",
   description: "A VitePress Site",
   themeConfig: {
