@@ -17,6 +17,7 @@ export default defineConfig({
       {
         text: 'Node',
         items: [
+          { text:'代码',link:'/node/代码.md'},
           { text: '什么是Node', link: '/node/node.md' },
           { text: 'NPM包管理器', link: '/node/npm.md' },
           {text:'脚手架',link:'/node/脚手架.md'},
