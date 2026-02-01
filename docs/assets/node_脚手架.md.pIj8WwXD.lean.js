@@ -1,0 +1,1 @@
+import{_ as i,o as a,c as n,ah as l}from"./chunks/framework.CR5tBAx8.js";const o=JSON.parse('{"title":"什么是脚手架","description":"","frontmatter":{},"headers":[],"relativePath":"node/脚手架.md","filePath":"node/脚手架.md"}'),e={name:"node/脚手架.md"};function h(t,s,p,k,r,d){return a(),n("div",null,[...s[0]||(s[0]=[l("",14)])])}const g=i(e,[["render",h]]);export{o as __pageData,g as default};

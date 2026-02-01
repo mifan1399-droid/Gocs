@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   srcDir: "src",
-  
+  outDir: "docs",
   title: "米饭的笔记博客",
   description: "A VitePress Site",
   themeConfig: {
