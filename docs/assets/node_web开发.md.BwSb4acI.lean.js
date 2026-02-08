@@ -1,0 +1,1 @@
+import{_ as n,o as a,c as p,ah as e}from"./chunks/framework.xKnhVJF3.js";const q=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"node/web开发.md","filePath":"node/web开发.md"}'),l={name:"node/web开发.md"};function i(t,s,r,c,o,u){return a(),p("div",null,[...s[0]||(s[0]=[e("",9)])])}const h=n(l,[["render",i]]);export{q as __pageData,h as default};
