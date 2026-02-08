@@ -23,6 +23,10 @@ export default defineConfig({
           {text:'脚手架',link:'/node/脚手架.md'},
           {text:'文件操作与模块编程',link:'/node/文件操作与模块编程.md'},
           {text:'服务器端开发基础',link:'/node/服务器端开发基础.md'},
+          {text:'下载远程项目代码',link:'/node/下载远程项目代码.md'},
+          {text:'web开发',link:'/node/web开发.md'},
+          {text:'Express',link:'/node/Express.md'},
+
         ]
       }
     ],
